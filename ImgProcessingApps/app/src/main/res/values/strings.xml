@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Img Processing Apps</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="pick_image_from_gallery">Pick Image From Gallery</string>
+    <string name="no_image">No Image</string>
+    <string name="crop">Crop</string>
+</resources>
